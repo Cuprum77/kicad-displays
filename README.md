@@ -53,6 +53,10 @@ ST7789
 ST7701
 - [3.99" 40 pin display](3d/st7701_40p_18rgb_3_99inch.step)
 
+## Contributing
+
+If you want to contribute to this repository, please read the [contributing guide](CONTRIBUTING.md) first.
+
 ## License
 
 This project is licensed under CERN Open Hardware License Version 2 - Strong Reciprocity (CERN-OHL-S-2.0). See [LICENSE](LICENSE) for more details.
