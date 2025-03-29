@@ -3,7 +3,7 @@
 These displays are usually rectangular, and have a resolution of up to 240x320 pixels, although most are smaller than that.
 With a color depth of 16 to 18 bits per pixel, this gives a total of 65k to 262k colors, or more commonly known as RGB565 and RGB666.¨
 
-![st7789 display with touch](resources/st7789_30p_16rgb_touch.png)
+![st7789 display with touch](../resources/st7789_30p_16rgb_touch.png)
 
 ## Specifications
 

@@ -5,7 +5,7 @@ These displays are usually round, and have a resolution of 240x240 pixels.
 
 With a color depth of 16 to 18 bits per pixel, this gives a total of 65k to 262k colors, or more commonly known as RGB565 and RGB666.
 
-![gc9a01 display](resources/gc9a01_12p_1spi.png)
+![gc9a01 display](../resources/gc9a01_12p_1spi.png)
 
 ## Specifications
 
