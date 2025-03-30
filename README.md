@@ -1,7 +1,7 @@
 # kicad-displays
 
 <div align="center">
-    <img src="https://github.com/Cuprum77/kicad-displays/resources/logo.png" width="60%" alt="kicad-displays" />
+    <img src="https://github.com/Cuprum77/kicad-displays/blob/main/resources/logo.png?raw=true" width="60%" alt="kicad-displays" />
 </div>
 
 This repository contains the KiCAD footprints and symbols for the following displays.
