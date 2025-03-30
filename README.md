@@ -1,5 +1,9 @@
 # kicad-displays
 
+<div align="center">
+    <img src="https://github.com/Cuprum77/kicad-displays/resources/logo.png" width="60%" alt="kicad-displays" />
+</div>
+
 This repository contains the KiCAD footprints and symbols for the following displays.
 
 Please note that none of the symbols have linked footprints, as some displays can be soldered, while others need a FPC connector.
